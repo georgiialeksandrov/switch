@@ -1,2 +1,2 @@
 # switch
-on
+off
